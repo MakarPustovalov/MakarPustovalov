@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 *   🧠  Currently learning TypeScript && React
 *   🤝  I'm open to collaborating on interesting projects as a developer-->
 
-![Segizmund`s GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov&show_icons=true&theme=radical)
+<!--![Segizmund`s GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov&show_icons=true&theme=radical)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarPustovalov&theme=tokyonight&layout=compact)
