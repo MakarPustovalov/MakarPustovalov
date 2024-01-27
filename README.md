@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MakarPustovalov/MakarPustovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,6 @@ Here are some ideas to get you started:
 *   🖥️  My future portfolio <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
 *   🧠  Currently learning TypeScript && React
 *   🤝  I'm open to collaborating on interesting projects as a developer-->
-
 
 ![Segizmund`s GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov&show_icons=true&theme=radical)
 
