@@ -2,7 +2,6 @@
 **MakarPustovalov/MakarPustovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 ### Hi👋My name is Makar Pustovalov
 
 ### I am a FrontEnd React developer.
-
 <!--*   🌍  I live in Tbilisi, Georgia
 *   🖥️  My future portfolio <a target="_blank" rel="noreferrer" href='#'>Portfolio</a>
 *   🧠  Currently learning TypeScript && React
