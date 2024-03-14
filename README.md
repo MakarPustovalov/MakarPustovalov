@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Hello,+World+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Hello,+World+:\))](https://git.io/typing-svg)
 ### Hi👋My name is Makar Pustovalov
 
 ### I am a FrontEnd React developer.
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov)](https://github.com/anuraghazra/github-readme-stats)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakarPustovalov&theme=material_palenight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakarPustovalov&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakarPustovalov&theme=tokyonight&layout=compact)
