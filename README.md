@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Hello,+World+:\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%BC00881&lines=Hello,+World!)](https://git.io/typing-svg)
 ### Hi👋My name is Makar Pustovalov
 
 ### I am a FrontEnd React developer.
